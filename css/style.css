@@ -1,0 +1,9 @@
+p {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+form {
+    margin: 1rem;
+}
